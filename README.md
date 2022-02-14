@@ -1,5 +1,14 @@
 ### Hi there 👋
+I am Sushmey, a pre-final year Information Technology student studying at VJTI, Mumbai
 
+I like learning new things and using them to make cool stuff.
+
+# Projects
+🔰[Helping users find recipes for ingredients they have on hand](https://github.com/sushmey/RecipeByIngredients)<br>
+🔰[A full stack website just to post Haikus](https://github.com/sushmey/HaikuBlog)<br>
+🔰[A website to help prioritize patients that are highly vulnerable to Covid](https://github.com/Sushmey/CovidQ)
+
+📫 How to reach me: @Sushmey on [Twitter](https://twitter.com/sushmey), [Linkedin](https://www.linkedin.com/in/sushmey/) and everywhere else.
 <!--
 **Sushmey/Sushmey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
