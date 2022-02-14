@@ -8,10 +8,10 @@ I like learning new things and using them to make cool stuff.
 🔰[A full stack website just to post Haikus](https://github.com/sushmey/HaikuBlog)<br>
 🔰[A website to help prioritize patients that are highly vulnerable to Covid](https://github.com/Sushmey/CovidQ)
 
+📫 How to reach me: @Sushmey on [Twitter](https://twitter.com/sushmey), [Linkedin](https://www.linkedin.com/in/sushmey/) and everywhere else.
+
 ![](https://github.com/sushmey/GitHub_Visualization_Fork/blob/master/generated/overview.svg)
 ![](https://github.com/sushmey/GitHub_Visualization_Fork/blob/master/generated/languages.svg)
-
-📫 How to reach me: @Sushmey on [Twitter](https://twitter.com/sushmey), [Linkedin](https://www.linkedin.com/in/sushmey/) and everywhere else.
 <!--
 **Sushmey/Sushmey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
