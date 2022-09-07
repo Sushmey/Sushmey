@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Sushmey, a pre-final year Information Technology student studying at VJTI, Mumbai
+I am Sushmey, a final year Information Technology student studying at VJTI, Mumbai
 
 I like learning new things and using them to make cool stuff.
 
