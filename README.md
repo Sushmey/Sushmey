@@ -1,7 +1,5 @@
 ### Hi there 👋
-I am Sushmey, a final year Information Technology student studying at VJTI, Mumbai
-
-I like learning new things and using them to make cool stuff.
+I am Sushmey, I like learning new things and using them to make cool stuff.
 
 # Projects
 🔰[Helping users find recipes for ingredients they have on hand](https://github.com/sushmey/RecipeByIngredients)<br>
