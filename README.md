@@ -2,6 +2,7 @@
 I am Sushmey, I like learning new things and using them to make cool stuff.
 
 # Projects
+🔰[An RAG to query any documents](https://github.com/Sushmey/Better-Call-RAGs)<br>
 🔰[Solve System of Linear Equations](https://github.com/Sushmey/Iterative-Gauss)<br>
 🔰[Helping users find recipes for ingredients they have on hand](https://github.com/sushmey/RecipeByIngredients)<br>
 🔰[A Chess Engine](https://github.com/sushmey/Greatest-Chess-Engine)<br>
